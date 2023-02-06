@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  p {
+    font-size: 18px;
+  }
+  
+  .destacado {
+    color: red;
+    font-weight: bold;
+  }
+  
+  #parrafo-especial {
+    font-size: 24px;
+    color: green;
+  }
+  
+  .contenedor p {
+    font-size: 14px;
+  }
+  
